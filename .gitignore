@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# uv / venv
+.venv/
+uv.lock
+
+# Project outputs (run artifacts)
+novel-review/output/
+novel-review/logs/
